@@ -1,3 +1,3 @@
 # Html5
 js/jquery
-Common js effects
+There're some usual js effects and little unusual css.
